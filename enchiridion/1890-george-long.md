@@ -2,7 +2,8 @@ Author:     Epictetus
 Title:      Enchiridion  
 Translator: George Long  
 Date:       1890  
-Source:     http://en.wikisource.org/wiki/Enchiridion
+Source:     [wikisource.org](http://en.wikisource.org/wiki/Enchiridion)  
+Code:       gl  
 
 ## 1
 

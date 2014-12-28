@@ -2,7 +2,8 @@ Author:     Epictetus
 Title:      Enchiridion  
 Translator: T.W. Rolleston  
 Date:       1881  
-Source:     http://www.letsreadgreek.com/epictetus/rolleston.htm
+Source:     [letsreadgreek.com](http://www.letsreadgreek.com/epictetus/rolleston.htm)  
+Code:       twr  
 
 ## 1
 

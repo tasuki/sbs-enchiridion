@@ -2,7 +2,8 @@ Author:     Epictetus
 Title:      The Manual  
 Translator: Stephen Walton  
 Date:       1997  
-Source:     http://www.ideonautics.com/manual2.htm  
+Source:     [ideonautics.com](http://www.ideonautics.com/manual2.htm)  
+Code:       sw  
 
 ## 1
 
