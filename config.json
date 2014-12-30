@@ -1,6 +1,7 @@
 {
 	"title": "Enchiridion",
 	"heading": "Translator",
+	"display": { "Code": ["ec", "twh", "pem", "sw"] },
 	"files":
 		[ "enchiridion/1750-elizabeth-carter.md"
 		, "enchiridion/1865-thomas-wentworth-higginson.md"
