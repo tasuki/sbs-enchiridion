@@ -322,7 +322,7 @@ hearing the same thing concerning others.
 
 ## 27
 
-As a mark 1 is not set up for the sake of missing the aim, so neither does the
+As a mark is not set up for the sake of missing the aim, so neither does the
 nature of evil exist in the world.
 
 ## 28

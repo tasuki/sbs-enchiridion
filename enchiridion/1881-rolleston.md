@@ -678,7 +678,7 @@ superior to yours. But you are not wealth, and you are not language.
 
 Does a man bathe himself quickly? Then say not Badly, but Quickly. Does be
 drink much wine? Then say not Too much, but Much. For before you have discerned
-how things appear to him,1 how can you know if it were done badly? Thus it will
+how things appear to him, how can you know if it were done badly? Thus it will
 not happen to you to surrender yourself to certain of the phantasms which lay
 hold of the mind, while comprehending others.
 

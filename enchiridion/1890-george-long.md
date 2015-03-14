@@ -314,7 +314,7 @@ him when he goes abroad, as the other man does; when he does not praise
 (flatter) him as another does? You will be unjust, then, and insatiable, if you
 do not part with the price, in return for which those things are sold, and if
 you wish to obtain them for nothing. Well, what is the price of lettuces?  An
-obolus[10] perhaps. If, then, a man gives up the obolus, and receives the
+obolus perhaps. If, then, a man gives up the obolus, and receives the
 lettuces, and if you do not give up the obolus and do not obtain the lettuces,
 do not suppose that you receive less than he who has got the lettuces; for as
 he has the lettuces, so you have the obolus which you did not give. In the same
