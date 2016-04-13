@@ -1,5 +1,6 @@
 {
-	"title": "Enchiridion",
+	"title": "Enchiridion – translation comparison",
+	"description": "Some things we can control, some we can’t. We can control our attitudes, opinions, goals and desires – choices of our own. We can’t control health, wealth, fame or power – things we can’t have by choosing them.",
 	"heading": "Translator",
 	"display": { "Code": ["ec", "twh", "pem", "sw"] },
 	"files": [
