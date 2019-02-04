@@ -4,6 +4,7 @@
 	"heading": "Translator",
 	"display": { "Code": ["ec", "twh", "pem", "sw"] },
 	"files": [
+		"enchiridion/0135-epictetus.md",
 		"enchiridion/1750-elizabeth-carter.md",
 		"enchiridion/1865-thomas-wentworth-higginson.md",
 		"enchiridion/1881-rolleston.md",
