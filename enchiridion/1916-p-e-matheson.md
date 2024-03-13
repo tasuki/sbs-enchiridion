@@ -467,9 +467,37 @@ few words. Talk, but rarely, if occasion calls you, but do not talk of ordinary
 things—of gladiators, or horse-races, or athletes, or of meats or drinks—these
 are topics that arise everywhere—but above all do not talk about men in blame
 or compliment or comparison. If you can, turn the conversation of your company
-by your talk to some fitting subject; but if you shouldgravity and dignity and
-do not make yourself offensive. When you are going to meet any one, and
-particularly some man of reputed eminence, set before your mind the thought,
+by your talk to some fitting subject; but if you should chance to be isolated
+among strangers, be silent. Do not laugh much, nor at many things, nor without
+restraint.
+
+Refuse to take oaths, altogether if that be possible, but if not, as far as
+circumstances allow.
+
+Refuse the entertainments of strangers and the vulgar. m-5 But if occasion arise
+to accept them, then strain every nerve to avoid lapsing into the state of the vulgar.
+For know that, if your comrade have a stain on him, he that associates with him must
+needs share the stain, even though he be clean in himself.
+
+For your body take just so much as your bare need requires, such as food, drink,
+clothing, house, servants, but cut down all that tends to luxury and outward show.
+
+Avoid impurity to the utmost of your power before marriage, and if you indulge your
+passion, let it be done lawfully. But do not be offensive or censorious to those who
+indulge it, and do not be always bringing up your own chastity. If some one tells you
+that so and so speaks ill of you, do not defend yourself against what he says, but answer,
+'He did not know my other faults, or he would not have mentioned these alone.'
+
+It is not necessary for the most part to go to the games; but if you should have
+occasion to go, show that your first concern is for yourself; that is, wish that only
+to happen which does happen, and him only to win who does win, for so you will suffer
+no hindrance. But refrain entirely from applause, or ridicule, or prolonged excitement.
+And when you go away do not talk much of what happened there, except so far as it tends
+to your improvement. For to talk about it implies that the spectacle excited your wonder.
+
+Do not go lightly or casually to hear lectures; but if you do go, maintain your
+gravity and dignity and do not make yourself offensive. When you are going to meet 
+any one, and particularly some man of reputed eminence, set before your mind the thought,
 'What would Socrates or Zeno have done?' and you will not fail to make proper
 use of the occasion.
 
